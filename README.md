@@ -2,8 +2,10 @@
 
 ## **_Table of contents_** 
 
+* [User Story](#User-Story) 
 * [description of the assignment](#description-of-the-assignment)
 * [acceptance criteria](#acceptance-criteria)
+* [Mock Up](#Mock-Up) 
 * [link url to deployed app on github](#link-url-to-deployed-app-on-github)
 * [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
 * [contact Link url to github repository](#contact-link-url-to-github-repository)
@@ -36,7 +38,53 @@ In order to be well prepared for the occasion, help maybe required in order to b
 * THEN I can save my initials and score
 
 ## Mock up
+
 [![image](https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/assets/146132836/fa7c5689-361a-405a-bef0-fa596e96a911)
+
+## Grading Requirements
+
+NOTE:
+
+If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+
+A repository that has no code
+
+A repository that includes a unique name but nothing else
+
+A repository that includes only a README file but nothing else
+
+A repository that only includes starter code
+
+This Challenge is graded based on the following criteria:
+
+Technical Acceptance Criteria: 40%
+Satisfies all of the above acceptance criteria.
+Deployment: 32%
+Application deployed at live URL.
+
+Application loads with no errors.
+
+Application GitHub URL submitted.
+
+GitHub repository that contains application code.
+
+Application Quality: 15%
+Application user experience is intuitive and easy to navigate.
+
+Application user interface style is clean and polished.
+
+Application resembles the mock-up functionality provided in the Challenge instructions.
+
+Repository Quality: 13%
+Repository has a unique name.
+
+Repository follows best practices for file structure and naming conventions.
+
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+
+Repository contains multiple descriptive commit messages.
+
+Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
 ## Link URL to deployed app on GitHub
@@ -48,5 +96,7 @@ In order to be well prepared for the occasion, help maybe required in order to b
 https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/edit/main/README.md
 
 ## Reference
+
+https://bootcampspot.instructure.com/courses/5651/assignments/67068?module_item_id=1145622 
 
 https://bootcampspot.instructure.com/courses/5651/assignments/67068?module_item_id=1145622 
