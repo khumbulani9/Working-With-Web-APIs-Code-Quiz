@@ -35,6 +35,10 @@ In order to be well prepared for the occasion, help maybe required in order to b
 * WHEN the game is over
 * THEN I can save my initials and score
 
+## Mock up
+[![image](https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/assets/146132836/fa7c5689-361a-405a-bef0-fa596e96a911)
+
+
 ## Link URL to deployed app on GitHub
 
  https://khumbulani9.github.io/Working-With-Web-APIs-Code-Quiz/ 
