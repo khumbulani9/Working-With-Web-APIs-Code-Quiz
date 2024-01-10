@@ -36,6 +36,12 @@ In order to be well prepared for the occasion, help maybe required in order to b
 
 ## Link URL to deployed app on GitHub
 
+ https://khumbulani9.github.io/Working-With-Web-APIs-Code-Quiz/ 
+
 ## Contact-link URL to GitHub repository
 
+https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/edit/main/README.md
+
 ## Reference
+
+https://bootcampspot.instructure.com/courses/5651/assignments/67068?module_item_id=1145622 
