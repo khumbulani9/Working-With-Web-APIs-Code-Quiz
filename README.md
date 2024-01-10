@@ -86,7 +86,6 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
-
 ## Link URL to deployed app on GitHub
 
  https://khumbulani9.github.io/Working-With-Web-APIs-Code-Quiz/ 
@@ -99,4 +98,3 @@ https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/edit/main/README.
 
 https://bootcampspot.instructure.com/courses/5651/assignments/67068?module_item_id=1145622 
 
-https://bootcampspot.instructure.com/courses/5651/assignments/67068?module_item_id=1145622 
