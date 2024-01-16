@@ -39,7 +39,7 @@ In order to be well prepared for the occasion, help maybe required in order to b
 
 ## Mock up
 
-[![image](https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/assets/146132836/3edb15b7-1004-4168-b25e-b654d44a556b)
+![image](https://github.com/khumbulani9/Working-With-Web-APIs-Code-Quiz/assets/146132836/3edb15b7-1004-4168-b25e-b654d44a556b)
 
 ## Grading Requirements
 
